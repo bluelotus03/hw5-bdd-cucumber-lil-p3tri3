@@ -18,7 +18,7 @@ You can use the github classroom link in Canvas to create your repo for this ass
 Then you can clone it into Cloud 9 like below.
 
 ```sh
-$ git clone https://github.com/itsc3155/hw5-bdd-cucumber-yourUsername
+$ git clone https://github.com/itsc3155-summer1-2018/hw5-bdd-cucumber-yourUsername
 ```
 
 We recommend
